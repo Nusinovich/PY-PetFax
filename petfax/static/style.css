@@ -35,6 +35,9 @@ h2 {
     color: var(--second-accent);
     margin: 0.5em 0;
 }
+h4{
+    color: #DE9D49;
+}
 a {
     font-family: var(--accent-font);
     text-decoration: none;
